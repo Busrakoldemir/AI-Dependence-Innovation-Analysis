@@ -23,4 +23,4 @@ This research explores the relationship between university students' reliance on
 
 
 ## 🎓 Academic Context
-This project was developed for the **"Research Methods in Social Sciences"** course under the supervision of **[Hocanın Adı]**.
+This project was developed for the **"Research Methods in Social Sciences"** course under the supervision of **Şenay ÇAYLAN**.
